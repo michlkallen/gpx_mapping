@@ -13,7 +13,7 @@ _To use:_
 
 With lots of files, it starts to look like this:
 
-![normal](https://github.com/michlkallen/gpx_mapping/blob/master/images/heatmap_simple.png)
+![normal](https://github.com/michlkallen/gpx_mapping/blob/master/images/heatmap.png)
 
 With only a few, it looks more like this:
 
